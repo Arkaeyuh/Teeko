@@ -14,3 +14,7 @@ The repository includes "1.png", "2.png", and "3.png".
 These all represent the possibility of cells, being empty, black piece, or blue piece. 
 
 These should be kept in a seperate folder titled "img" in the same space that you plan to run Teeko.py.
+
+You should also have game2dboard installed.
+
+This can be easily done with python3 pip install game2dboard within your terminal.
